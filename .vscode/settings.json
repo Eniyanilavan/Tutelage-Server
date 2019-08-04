@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "env/bin/python3.7",
+    "editor.fontSize": 16,
+    "git.ignoreLimitWarning": true
+}
